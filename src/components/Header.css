@@ -1,0 +1,25 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    margin: 20px auto;
+    padding-bottom: 30px;
+    background-color: yellow;
+    text-decoration: none;
+}
+.home, .create, .note, .about{
+    text-decoration: none;
+    color: black;
+}
+.note:hover{
+    color: red;
+}
+.about:hover{
+    color: red;
+}
+.home:hover{
+    color: red;
+}
+.create:hover{
+    color: red;
+}

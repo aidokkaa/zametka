@@ -1,0 +1,92 @@
+.hide{
+    display: none;
+}
+.mainCreate{
+    margin-top: 50px;
+    width: 150px;
+    padding: 7px;
+    background-color: red;
+    border-radius:17px;
+    text-align: center;
+    margin-left: 40px;
+}
+.mainCreate a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+.mainNote{
+    margin-top: 50px;
+    width: 150px;
+    padding: 7px;
+    background-color: red;
+    border-radius:17px;
+    text-align: center;
+    margin-left: 40px;
+}
+.mainNote a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.main2{
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.form{
+    margin-top: 30px;
+    gap: 10px;
+}
+.form label{
+   font-weight: bold;
+   color: black;
+   padding: 0 20px;
+}
+.form input{
+    margin-right: 20px;
+}
+.form button{
+    color: #000;
+    background-color: yellow;
+    width: 100px;
+    padding: 7px;
+    text-align: center;
+}
+.text{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.label{
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.button{
+    color: #000;
+    background-color: yellow;
+    width: 100px;
+    padding: 7px;
+    text-align: center;
+    margin-left: 40px;
+}
+.about1{
+    width: 300px;
+    height: 400px;
+    margin: 50px auto;
+    padding: 30px;
+
+    box-shadow: 2px 3px 5px yellow;
+}
+.about1 p{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button1{
+    background-color: yellow;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding: 6px;
+    cursor: pointer;
+}
